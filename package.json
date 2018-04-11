@@ -19,6 +19,9 @@
   "bin": "index.js",
   "pkg": {
     "scripts": "",
-    "assets": ""
+    "assets": "",
+    "targets": [
+      "node8-win-x64"
+    ]
   }
 }
